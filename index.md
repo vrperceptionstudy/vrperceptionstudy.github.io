@@ -34,8 +34,3 @@ Feel free to email us, or visit our webpages to know more about our research.
 | Rahul Arora (Contact Author)          | [arorar@dgp.toronto.edu](mailto:arorar@dgp.toronto.edu)           | [https://www.dgp.toronto.edu/~arorar/](https://www.dgp.toronto.edu/~arorar/) | 
 | Jiannan Li (Contact Author)           | [jiannali@dgp.toronto.edu](mailto:jiannanli@dgp.toronto.edu)      | [http://jchrisli.github.io/](http://jchrisli.github.io/) | 
 | Gongyi Shi                            | [gongyi.shi@mail.utoronto.ca](mailto:gongyi.shi@mail.utoronto.ca) | [https://ca.linkedin.com/in/gongyi-shi](https://ca.linkedin.com/in/gongyi-shi) |
-
-
-
-
-
