@@ -15,24 +15,24 @@ Running the study is extremely simple and quick! We expect that it will take aro
 Glad you asked. Here's a list of benefits.
 
 1. You get to test your size and depth perception ability in VR! A score given at the end of the study tells you how well you did.
-2. You get a US $5 amazon.com (or equivalent, based on your preference) gift card.
-3. We are keeping a leaderboard over [here](https://dgp.toronto.edu/~arorar/leaderboard.htm). If you get a high score and are among the top ten at the end of the study, we will send you an additional gift card worth US $15.
-4. After the study concludes, we will send you a detailed report of your performance. So you can know exactly how you performed at each task!
+2. You get a **US $5** amazon.com (or equivalent, based on your preference) gift card.
+3. We are keeping a **leaderboard** over [here](https://dgp.toronto.edu/~arorar/leaderboard.htm). If you get a high score and are among the **top ten** at the end of the study, we will send you an additional gift card worth **US $15**.
+4. After the study concludes, we will send you a **detailed report of your performance**. So you can know exactly how you performed at each task!
 5. You get our immense gratitude and the satisfaction of having helped science.
 
 ### Is that all?
 
-Kinda. If you _really_ like the study, or _really_ want that top ten spot, you can repeat the experiment up to 2 more times. Each repetition will give you a chance to improve your score, and will give you 100 bonus points.
+Kinda. If you _really_ like the study, or _really_ want that top ten spot, you can repeat the experiment up to 2 more times. Each repetition will give you a chance to improve your score, and will give you **100 bonus points**.
 
 ### I have a question, who do I ask?
 
-Feel free to email Rahul Arora at [arorar@dgp.toronto.edu](mailto:arorar@dgp.toronto.edu) or the other researchers on this project, or visit our webpages to know more about our research.
+Feel free to email us, or visit our webpages to know more about our research.
 
 | Name                                  | Email                                                             | Webpage                                                   |
 | ------------------------------------- | -----------------------------------------------------             | ----------------------------------------        |
 | Karan Singh (Principal Investigator)  | [karan@dgp.toronto.edu](mailto:karan@dgp.toronto.edu)             | [http://www.dgp.toronto.edu/~karan/](http://www.dgp.toronto.edu/~karan/) | 
-| Rahul Arora                           | [arorar@dgp.toronto.edu](mailto:arorar@dgp.toronto.edu)           | [https://www.dgp.toronto.edu/~arorar/](https://www.dgp.toronto.edu/~arorar/) | 
-| Jiannan Li                            | [jiannali@dgp.toronto.edu](mailto:jiannanli@dgp.toronto.edu)      | [http://jchrisli.github.io/](http://jchrisli.github.io/) | 
+| Rahul Arora (Contact Author)          | [arorar@dgp.toronto.edu](mailto:arorar@dgp.toronto.edu)           | [https://www.dgp.toronto.edu/~arorar/](https://www.dgp.toronto.edu/~arorar/) | 
+| Jiannan Li (Contact Author)           | [jiannali@dgp.toronto.edu](mailto:jiannanli@dgp.toronto.edu)      | [http://jchrisli.github.io/](http://jchrisli.github.io/) | 
 | Gongyi Shi                            | [gongyi.shi@mail.utoronto.ca](mailto:gongyi.shi@mail.utoronto.ca) | [https://ca.linkedin.com/in/gongyi-shi](https://ca.linkedin.com/in/gongyi-shi) |
 
 
