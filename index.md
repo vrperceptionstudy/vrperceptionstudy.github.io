@@ -1,6 +1,4 @@
-## VR Size and Depth Perception Study
-
-Thank you for your interest in our study. We are a group of researchers at the University of Toronto in Canada, trying to understand how humans perceive size and depth in Virtual Reality. We need your help to run a study for this task. You just need to have access to any six-degree of freedom VR device compatible with Windows (such as an Oculus Rift or an HTC Vive) or an Oculus Quest.
+Thank you for your interest in our study. We are a group of researchers at the University of Toronto in Canada, trying to understand how humans perceive size and depth in Virtual Reality. We need your help to run a study for this task. In rder to participate, you need to have access to any six-degree of freedom VR device compatible with Windows (such as Oculus Rift, HTC Vive, Vale Index, or Windows MR devices) or an Oculus Quest.
 
 ### Allright, What do I have to do?
 
