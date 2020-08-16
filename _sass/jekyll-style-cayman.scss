@@ -109,8 +109,9 @@ a {
   color: $header-heading-color;
   text-align: center;
   background-color: $header-bg-color;
-  background-image: url('../../assets/images/logo.png'); /*linear-gradient(120deg, $header-bg-color-secondary, $header-bg-color);/*
+  background-image: url("../../assets/images/logo.png");
   background-size: 100%;
+
 
   @include large {
     padding: 5rem 6rem;
