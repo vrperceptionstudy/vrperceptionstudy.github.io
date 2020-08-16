@@ -1,6 +1,6 @@
 Thank you for your interest in our study. We are a group of researchers at the University of Toronto in Canada, trying to understand how humans perceive size and depth in Virtual Reality. We need your help to run a study for this task. In rder to participate, you need to have access to any six-degree of freedom VR device compatible with Windows (such as Oculus Rift, HTC Vive, Vale Index, or Windows MR devices) or an Oculus Quest.
 
-### Allright, What do I have to do?
+### Alright, what do I have to do?
 
 Running the study is extremely simple and quick! We expect that it will take around 15 to 20 minutes for the whole process. Here's how you can participate:
 
@@ -18,6 +18,7 @@ Glad you asked. Here's a list of benefits.
 2. You get a US $5 amazon.com (or equivalent, based on your preference) gift card.
 3. We are keeping a leaderboard over [here](https://dgp.toronto.edu/~arorar/leaderboard.htm). If you get a high score and are among the top ten at the end of the study, we will send you an additional gift card worth US $15.
 4. After the study concludes, we will send you a detailed report of your performance. So you can know exactly how you performed at each task!
+5. You get our immense gratitude and the satisfaction of having helped science.
 
 ### Is that all?
 
@@ -27,7 +28,7 @@ Kinda. If you _really_ like the study, or _really_ want that top ten spot, you c
 
 Feel free to email Rahul Arora at [arorar@dgp.toronto.edu](mailto:arorar@dgp.toronto.edu) or the other researchers on this project:
 
-Karan Singh (Principal Investigator) [karan@dgp.toronto.edu](mailto:karan@dgp.toronto.edu)
+Karan Singh [karan@dgp.toronto.edu](mailto:karan@dgp.toronto.edu) (Principal Investigator)
 
 Jiannan Li [jiannali@dgp.toronto.edu](mailto:jiannanli@dgp.toronto.edu)
 
