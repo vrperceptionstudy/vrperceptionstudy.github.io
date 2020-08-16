@@ -26,19 +26,16 @@ Kinda. If you _really_ like the study, or _really_ want that top ten spot, you c
 
 ### I have a question, who do I ask?
 
-Feel free to email Rahul Arora at [arorar@dgp.toronto.edu](mailto:arorar@dgp.toronto.edu) or the other researchers on this project:
+Feel free to email Rahul Arora at [arorar@dgp.toronto.edu](mailto:arorar@dgp.toronto.edu) or the other researchers on this project, or visit our webpages to know more about our research.
 
-Karan Singh [karan@dgp.toronto.edu](mailto:karan@dgp.toronto.edu) (Principal Investigator)
+| Name                                  | Email                                                             | Webpage                                                   |
+| ------------------------------------- | -----------------------------------------------------             | ----------------------------------------        |
+| Karan Singh (Principal Investigator)  | [karan@dgp.toronto.edu](mailto:karan@dgp.toronto.edu)             | [http://www.dgp.toronto.edu/~karan/](http://www.dgp.toronto.edu/~karan/) | 
+| Rahul Arora                           | [arorar@dgp.toronto.edu](mailto:arorar@dgp.toronto.edu)           | [https://www.dgp.toronto.edu/~arorar/](https://www.dgp.toronto.edu/~arorar/) | 
+| Jiannan Li                            | [jiannali@dgp.toronto.edu](mailto:jiannanli@dgp.toronto.edu)      | [http://jchrisli.github.io/](http://jchrisli.github.io/) | 
+| Gongyi Shi                            | [gongyi.shi@mail.utoronto.ca](mailto:gongyi.shi@mail.utoronto.ca) | [https://ca.linkedin.com/in/gongyi-shi](https://ca.linkedin.com/in/gongyi-shi) |
 
-Jiannan Li [jiannali@dgp.toronto.edu](mailto:jiannanli@dgp.toronto.edu)
-
-Gongyi Shi [gongyi.shi@mail.utoronto.ca](mailto:gongyi.shi@mail.utoronto.ca)
 
 
-Or visit our webpages to know more about our research:
 
-Karan Singh [http://www.dgp.toronto.edu/~karan/](http://www.dgp.toronto.edu/~karan/)
 
-Rahul Arora [https://www.dgp.toronto.edu/~arorar/](https://www.dgp.toronto.edu/~arorar/)
-
-Jiannan Li [http://jchrisli.github.io/](http://jchrisli.github.io/)
