@@ -1,37 +1,45 @@
-## Welcome to GitHub Pages
+## VR Size and Depth Perception Study
 
-You can use the [editor on GitHub](https://github.com/vrperceptionstudy/vrperceptionstudy.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Thank you for your interest in our study. We are a group of researchers at the University of Toronto in Canada, trying to understand how humans perceive size and depth in Virtual Reality. We need your help to run a study for this task. You just need to have access to any six-degree of freedom VR device compatible with Windows (such as an Oculus Rift or an HTC Vive) or an Oculus Quest.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Allright, What do I have to do?
 
-### Markdown
+Running the study is extremely simple and quick! We expect that it will take around 15 to 20 minutes for the whole process. Here's how you can participate:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+1. Go to [https://forms.gle/kwzdXaeA1Zb3UQSn8](https://forms.gle/kwzdXaeA1Zb3UQSn8). All the other steps are accessed through this form.
+2. Watch a short 3-minute instructions video to understand the tasks.
+3. Download a lightweight application to your Windows computer or Oculus Quest.
+4. Run the study. It should take about 15 minutes.
+5. Finish the short (_actually_ short, we promise) survey in the form in (1).
 
-```markdown
-Syntax highlighted code block
+### That's cool and all, but what's in it for me?
 
-# Header 1
-## Header 2
-### Header 3
+Glad you asked. Here's a list of benefits.
 
-- Bulleted
-- List
+1. You get to test your size and depth perception ability in VR! A score given at the end of the study tells you how well you did.
+2. You get a US $5 amazon.com (or equivalent, based on your preference) gift card.
+3. We are keeping a leaderboard over [here](https://dgp.toronto.edu/~arorar/leaderboard.htm). If you get a high score and are among the top ten at the end of the study, we will send you an additional gift card worth US $15.
+4. After the study concludes, we will send you a detailed report of your performance. So you can know exactly how you performed at each task!
 
-1. Numbered
-2. List
+### Is that all?
 
-**Bold** and _Italic_ and `Code` text
+Kinda. If you _really_ like the study, or _really_ want that top ten spot, you can repeat the experiment up to 2 more times. Each repetition will give you a chance to improve your score, and will give you 100 bonus points.
 
-[Link](url) and ![Image](src)
-```
+### I have a question, who do I ask?
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Feel free to email Rahul Arora at [arorar@dgp.toronto.edu](mailto:arorar@dgp.toronto.edu) or the other researchers on this project:
 
-### Jekyll Themes
+Karan Singh (Principal Investigator) [karan@dgp.toronto.edu](mailto:karan@dgp.toronto.edu)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/vrperceptionstudy/vrperceptionstudy.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Jiannan Li [jiannali@dgp.toronto.edu](mailto:jiannanli@dgp.toronto.edu)
 
-### Support or Contact
+Gongyi Shi [gongyi.shi@mail.utoronto.ca](mailto:gongyi.shi@mail.utoronto.ca)
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+Or visit our webpages to know more about our research:
+
+Karan Singh [http://www.dgp.toronto.edu/~karan/](http://www.dgp.toronto.edu/~karan/)
+
+Rahul Arora [https://www.dgp.toronto.edu/~arorar/](https://www.dgp.toronto.edu/~arorar/)
+
+Jiannan Li [http://jchrisli.github.io/](http://jchrisli.github.io/)
