@@ -5,7 +5,7 @@ Thank you for your interest in our study. We are a group of researchers at the U
 Running the study is extremely simple and quick! We expect that it will take around 15 to 20 minutes for the whole process. Here's how you can participate:
 
 1. Go to [https://forms.gle/kwzdXaeA1Zb3UQSn8](https://forms.gle/kwzdXaeA1Zb3UQSn8). All the other steps are accessed through this form.
-2. Watch a short 3-minute instructions video to understand the tasks.
+2. Watch a short (2min 30sec) instructions video to understand the tasks.
 3. Download a lightweight application to your Windows computer or Oculus Quest.
 4. Run the study. It should take about 15 minutes.
 5. Finish the short (_actually_ short, we promise) survey in the form in (1).
