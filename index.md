@@ -17,12 +17,19 @@ Glad you asked. Here's a list of benefits.
 1. You get to test your size and depth perception ability in VR! A score given at the end of the study tells you how well you did.
 2. You get a **US $5** amazon.com (or equivalent, based on your preference) gift card.
 3. We are keeping a **leaderboard** over [here](https://dgp.toronto.edu/~arorar/leaderboard.htm). If you get a high score and are among the **top ten** at the end of the study, we will send you an additional gift card worth **US $15**.
-4. After the study concludes, we will send you a **detailed report of your performance**. So you can know exactly how you performed at each task!
+4. After the study concludes (exact date to be announced), we will send you a **detailed report of your performance**. So you can know exactly how you performed at each task!
 5. You get our immense gratitude and the satisfaction of having helped science.
 
 ### Is that all?
 
-Kinda. If you _really_ like the study, or _really_ want that top ten spot, you can repeat the experiment up to 2 more times. Each repetition will give you a chance to improve your score, and will give you **100 bonus points**.
+Almost. If you _really_ like the study, or _really_ want that top ten spot, you can repeat the experiment up to 2 more times. Each repetition will give you a chance to improve your score, and will give you **100 bonus points**.
+
+So, you score is computed is:
+| Session  | Score for session  | Total score                                             |
+| ---      | ---                | ---                                                     |
+| 1        | S<sub>1</sub>      | S<sub>1</sub>                                           |
+| 2        | S<sub>2</sub>      | max(S<sub>1</sub>, S<sub>2</sub>) + 100                 |
+| 3        | S<sub>3</sub>      | max(S<sub>1</sub>, S<sub>2</sub>, S<sub>3</sub>) + 200  |
 
 ### I have a question, who do I ask?
 
