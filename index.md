@@ -17,7 +17,7 @@ Glad you asked. Here's a list of benefits.
 
 1. You get to test your size and depth perception ability in VR! A score given at the end of the study tells you how well you did.
 2. You get a **US $5** amazon.com (or equivalent, based on your preference) gift card.
-3. We are keeping a **leaderboard** over [here](https://dgp.toronto.edu/~arorar/leaderboard.htm). If you get a high score and are among the **top ten** at the end of the study, we will send you an additional gift card worth **US $15**.
+3. We are keeping a **leaderboard** over **TODO** [here](https://dgp.toronto.edu/~arorar/leaderboard.htm). If you get a high score and are among the **top ten** at the end of the study, we will send you an additional gift card worth **US $15**.
 4. After the study concludes (exact date to be announced), we will send you a **detailed report of your performance**. So you can know exactly how you performed at each task!
 5. You get our immense gratitude and the satisfaction of having helped science.
 
