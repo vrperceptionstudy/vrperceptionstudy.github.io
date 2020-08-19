@@ -7,8 +7,9 @@ Running the study is extremely simple and quick! We expect that it will take aro
 1. Go to [https://forms.gle/kwzdXaeA1Zb3UQSn8](https://forms.gle/kwzdXaeA1Zb3UQSn8). All the other steps are accessed through this form.
 2. Watch a short (2min 30sec) instructions video to understand the tasks.
 3. Download a lightweight application to your Windows computer or Oculus Quest.
-4. Run the study. It should take about 15 minutes.
-5. Finish the short (_actually_ short, we promise) survey in the form in (1).
+4. **[For Oculus Quest users only.]** You can either use your Quest in [Link mode](https://www.oculus.com/blog/play-rift-content-on-quest-with-oculus-link-available-now-in-beta/) as a standard Windows device (recommended), or you need to [enable developer mode](https://uploadvr.com/how-to-sideload-apps-oculus-go/) on it.
+5. Run the study. It should take about 15 minutes.
+6. Finish the short (_actually_ short, we promise) survey in the form in (1).
 
 ### That's cool and all, but what's in it for me?
 
