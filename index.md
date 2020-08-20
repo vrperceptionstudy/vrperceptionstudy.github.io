@@ -54,8 +54,10 @@ Please look at the FAQ below. If it doesn't answer your question, feel free to e
 | **Q:** I completed all the steps but didn't receive the detailed report or the US $5 gift card.|
 | **A:** We will send the detailed report as well as the gift cards when the study concludes in early September. The exact date will be announced soon.|
 | **Q:** I finished the study but my name is not on the leaderboard yet. |
-| **A:** You need to finish all the steps (including the form) and use the *exact* username given to you by the application. If you filled the form but think that you may have a typo in the username, please email us with your email address (you used in the form), whatever part of the username you recall, and the approximate time of study completion and/or form submission. |
+| **A:** You need to finish all the steps (including the form) and use the *exact* username given to you by the application. If you filled the form but think that you may have a typo in the username, please email us with your email address (that you used in the form), whatever part of the username you recall, and the approximate time of study completion and/or form submission. |
 | **Q:** No, pretty sure I filled the form as well, and used the correct username. I'm still not on the leaderboard. |
-| **A:** The leaderbaord is updated every 15 minutes or so. Please check back in a few minutes. If it still doesn't show your name, shoot us an email. |
+| **A:** The leaderboard is updated every 15 minutes or so. Please check back in a few minutes. If it still doesn't show your name, shoot us an email. Please include all relevant information (see the previous answer). |
 | **Q:** The app crashed on my device. Can you help? |
 | **A:** We're sorry about that. If you're using a Windows device and don't mind sending us a log file, we'll be happy to take a look. You can find the log file at `C:\Users\<your_username>\AppData\LocalLow\DGP\VR Perception Study\Player.log`. Unfortunately, we currently don't have a way to debug issues with Oculus Quest (in Android mode). Also, we are unable to recover your data or scores from a partial session. |
+| **Q:** If I do 2 (or 3) study sessions, do I automatically get $10 (or $15)? |
+| **A:** No. The second and third sessions are meant to help you increase your score and boost your chances of getting to the top ten on the leaderboard. |
