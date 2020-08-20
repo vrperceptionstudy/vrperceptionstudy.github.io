@@ -8,7 +8,7 @@ Running the study is extremely simple and quick! We expect that it will take aro
 2. Watch a short (2min 30sec) instructions video to understand the tasks.
 3. Download a lightweight application to your Windows computer or Oculus Quest.
 4. **[For Oculus Quest users only.]** You can either use your Quest in [Link mode](https://www.oculus.com/blog/play-rift-content-on-quest-with-oculus-link-available-now-in-beta/) as a standard Windows device (recommended), or you need to [enable developer mode](https://uploadvr.com/how-to-sideload-apps-oculus-go/) on it.
-5. Run the study. It should take about 15 minutes.
+5. Run the study. It should take about 15 minutes. Please make sure that you're connected to the internet while running the study.
 6. Finish the short (_actually_ short, we promise) survey in the form in (1).
 
 ### That's cool and all, but what's in it for me?
@@ -37,7 +37,7 @@ So, you score is computed is:
 
 ### I have a question, who do I ask?
 
-Feel free to email us, or visit our webpages to know more about our research.
+Please look at the FAQ below. If it doesn't answer your question, feel free to email us, or visit our webpages to know more about our research.
 
 | Name                                  | Email                                                             | Webpage                                                   |
 | ------------------------------------- | -----------------------------------------------------             | ----------------------------------------        |
@@ -45,3 +45,17 @@ Feel free to email us, or visit our webpages to know more about our research.
 | Rahul Arora (Contact Author)          | [arorar@dgp.toronto.edu](mailto:arorar@dgp.toronto.edu)           | [https://www.dgp.toronto.edu/~arorar/](https://www.dgp.toronto.edu/~arorar/) | 
 | Jiannan Li (Contact Author)           | [jiannali@dgp.toronto.edu](mailto:jiannanli@dgp.toronto.edu)      | [http://jchrisli.github.io/](http://jchrisli.github.io/) | 
 | Gongyi Shi                            | [gongyi.shi@mail.utoronto.ca](mailto:gongyi.shi@mail.utoronto.ca) | [https://ca.linkedin.com/in/gongyi-shi](https://ca.linkedin.com/in/gongyi-shi) |
+
+
+### Frequently-asked questions
+
+| |
+| --- |
+| **Q:** I completed all the steps but didn't receive the detailed report or the US $5 gift card.|
+| **A:** We will send the detailed report as well as the gift cards when the study concludes in early September. The exact date will be announced soon.|
+| **Q:** I finished the study but my name is not on the leaderboard yet. |
+| **A:** You need to finish all the steps (including the form) and use the *exact* username given to you by the application. If you filled the form but think that you may have a typo in the username, please email us with your email address (you used in the form), whatever part of the username you recall, and the approximate time of study completion and/or form submission. |
+| **Q:** No, pretty sure I filled the form as well, and used the correct username. I'm still not on the leaderboard. |
+| **A:** The leaderbaord is updated every 15 minutes or so. Please check back in a few minutes. If it still doesn't show your name, shoot us an email. |
+| **Q:** The app crashed on my device. Can you help? |
+| **A:** We're sorry about that. If you're using a Windows device and don't mind sending us a log file, we'll be happy to take a look. You can find the log file at `C:\Users\<your_username>\AppData\LocalLow\DGP\VR Perception Study\Player.log`. Unfortunately, we currently don't have a way to debug issues with Oculus Quest (in Android mode). Also, we are unable to recover your data or scores from a partial session. |
