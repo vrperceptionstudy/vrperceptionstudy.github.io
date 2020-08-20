@@ -23,7 +23,9 @@ Glad you asked. Here's a list of benefits.
 
 ### Is that all?
 
-Almost. If you _really_ like the study, or _really_ want that top ten spot, you can repeat the experiment up to 2 more times. Only the best score counts, so each repetition gives you a chance to improve your score. But that's not all: each repetition will also give you **100 bonus points**.
+Almost. If you _really_ like the study, or _really_ want that top ten spot, you can repeat the experiment up to 2 more times. That is, you can do up to 3 sessions.
+
+Only the best score counts, so each repetition gives you a chance to improve your score. But that's not all! The second and third session will also give you **100 bonus points** each.
 
 So, you score is computed is:
 
