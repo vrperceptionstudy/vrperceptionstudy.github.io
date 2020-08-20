@@ -35,6 +35,8 @@ So, you score is computed is:
 | 2        | S<sub>2</sub>      | max(S<sub>1</sub>, S<sub>2</sub>) + 100                 |
 | 3        | S<sub>3</sub>      | max(S<sub>1</sub>, S<sub>2</sub>, S<sub>3</sub>) + 200  |
 
+Please note that you don't need to fill the form more than once. You just need to restart the application and run through the experiment again.
+
 ### I have a question, who do I ask?
 
 Please look at the FAQ below. If it doesn't answer your question, feel free to email us, or visit our webpages to know more about our research.
