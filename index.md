@@ -63,3 +63,5 @@ Please look at the FAQ below. If it doesn't answer your question, feel free to e
 | **A:** We're sorry about that. If you're using a Windows device and don't mind sending us a log file, we'll be happy to take a look. You can find the log file at `C:\Users\<your_username>\AppData\LocalLow\DGP\VR Perception Study\Player.log`. Unfortunately, we currently don't have a way to debug issues with Oculus Quest (in Android mode). Also, we are unable to recover your data or scores from a partial session. |
 | **Q:** If I do 2 (or 3) study sessions, do I automatically get $10 (or $15)? |
 | **A:** No. The second and third sessions are meant to help you increase your score and boost your chances of getting to the top ten on the leaderboard. |
+| **Q:** Will the leaderboard display my personal information? |
+| **A:** No. The leaderboard [only shows](https://vr-perception-leaderboard.herokuapp.com/) the randomly generated username assigned to you by the application. |
