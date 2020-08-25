@@ -18,7 +18,7 @@ Glad you asked. Here's a list of benefits.
 1. You get to test your size and depth perception ability in VR! A score given at the end of the study tells you how well you did.
 2. You get a **US $5** amazon.com (or equivalent, based on your preference) gift card.
 3. We are keeping a **leaderboard** over [here](https://vr-perception-leaderboard.herokuapp.com/). If you get a high score and are among the **top ten** at the end of the study, we will send you an additional gift card worth **US $15**.
-4. After the study concludes (early September, exact date to be announced), we will send you a **detailed report of your performance**. So you can know exactly how you performed at each task!
+4. After the study concludes (September, see **Important Dates** below), we will send you a **detailed report of your performance**. So you can know exactly how you performed at each task!
 5. You get our immense gratitude and the satisfaction of having helped science.
 
 ### Is that all?
@@ -36,6 +36,18 @@ So, you score is computed is:
 | 3        | S<sub>3</sub>      | max(S<sub>1</sub>, S<sub>2</sub>, S<sub>3</sub>) + 200  |
 
 Please note that you don't need to fill the form more than once. You just need to restart the application and run through the experiment again.
+
+### Important Dates
+
+| Date | Event |
+| --- | --- |
+| 2020-08-31 | Study finishes<sup>*</sup> |
+| 2020-09-10 | Gift cards sent out |
+| 2020-09-20<sup>#</sup> | Detailed performance reports sent out |
+
+<sup>*</sup> We will stop accepting additional participants as well as additional sessions from existing participants at 11:59PM EDT on this date, and the leaderboard will be frozen and finalized. We may stop accepting new participants early, if we get enough data for our analyses prior to this date. However, existing participants will be able to complete additional sessions up to this date.
+
+<sup>#</sup> Tentative, but we'll try our very best to send the performance reports by this date.
 
 ### I have a question, who do I ask?
 
