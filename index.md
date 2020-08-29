@@ -67,8 +67,10 @@ Please look at the FAQ below. If it doesn't answer your question, feel free to e
 
 | |
 | --- |
+| **Q:** [For existing participants] I received an email from Rahul Arora asking for additional information. Is that email legit? Do I need to respond in order to get my compensation? |
+| **A:** Yes, we sent an email with a _request_ for additional information. It is a request and you're not required to respond in order to receive your gift card, as per the original consent form you signed. However, we'll really appreciate if you respond, as it can improve our analysis. |
 | **Q:** I completed all the steps but didn't receive the detailed report or the US $5 gift card.|
-| **A:** We will send the detailed report as well as the gift cards when the study concludes in early September. The exact date will be announced soon.|
+| **A:** We will send the detailed report as well as the gift cards when the study concludes in early September. See **Important Dates** above.|
 | **Q:** I finished the study but my name is not on the leaderboard yet. |
 | **A:** You need to finish all the steps (including the form) and use the *exact* username given to you by the application. If you filled the form but think that you may have a typo in the username, please email us with your email address (that you used in the form), whatever part of the username you recall, and the approximate time of study completion and/or form submission. |
 | **Q:** No, pretty sure I filled the form as well, and used the correct username. I'm still not on the leaderboard. |
