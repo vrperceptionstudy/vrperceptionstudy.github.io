@@ -1,4 +1,4 @@
-**Important Update.** We have currently stopped accepting new participants. Existing participants who have done less than 3 sessions can still finish their remaining sessions.
+**Important Update.** The study has finished. Please see **Important Dates** below for details on gift cards and performance reports.
 
 Thank you for your interest in our study. We are a group of researchers at the University of Toronto in Canada, trying to understand how humans perceive size and depth in Virtual Reality. We need your help to run a study for this task. In order to participate, you need to have access to any six–degree of freedom VR device compatible with Windows (such as Oculus Rift, HTC Vive, Valve Index, or Windows Mixed Reality devices) or an Oculus Quest.
 
@@ -43,11 +43,9 @@ Please note that you don't need to fill the form more than once. You just need t
 
 | Date | Event |
 | --- | --- |
-| 2020-08-31 | Study finishes<sup>*</sup> |
+| 2020-08-31 | Study finishes |
 | 2020-09-10 | Gift cards sent out |
 | 2020-09-20<sup>#</sup> | Detailed performance reports sent out |
-
-<sup>*</sup> We will stop accepting additional participants as well as additional sessions from existing participants at 11:59PM EDT on this date, and the leaderboard will be frozen and finalized. We may stop accepting new participants early, if we get enough data for our analyses prior to this date. However, existing participants will be able to complete additional sessions up to this date.
 
 <sup>#</sup> Tentative, but we'll try our very best to send the performance reports by this date.
 
