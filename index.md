@@ -45,9 +45,9 @@ Please note that you don't need to fill the form more than once. You just need t
 | --- | --- |
 | 2020-08-31 | Study finishes |
 | 2020-09-10 | Gift cards sent out |
-| 2020-09-20<sup>#</sup> | Detailed performance reports sent out |
+| 2020-09-25<sup>#</sup> | Detailed performance reports sent out |
 
-<sup>#</sup> Tentative, but we'll try our very best to send the performance reports by this date.
+<sup>#</sup> ~Tentative, but we'll try our very best to send the performance reports by this date.~  Sorry, delayed by a few days.
 
 ### I have a question, who do I ask?
 
