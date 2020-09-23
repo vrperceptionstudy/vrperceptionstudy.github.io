@@ -1,4 +1,4 @@
-**Important Update For Participants.** The study has finished (Aug 31). All gift cards have been sent out on Sep 1, and you should receive yours soon. Please see **Important Dates** below for details on performance reports.
+**Important Update For Participants.** The study has finished (Aug 31). All gift cards have been sent out on Sep 1, and you should have received yours. If you didn't, please let us know. The performance reports were sent on Sep 22. Again, if you didn't get it, let us know.
 
 Thank you for your interest in our study. We are a group of researchers at the University of Toronto in Canada, trying to understand how humans perceive size and depth in Virtual Reality. We need your help to run a study for this task. In order to participate, you need to have access to any six–degree of freedom VR device compatible with Windows (such as Oculus Rift, HTC Vive, Valve Index, or Windows Mixed Reality devices) or an Oculus Quest.
 
@@ -45,9 +45,8 @@ Please note that you don't need to fill the form more than once. You just need t
 | --- | --- |
 | 2020-08-31 | Study finishes |
 | 2020-09-10 | Gift cards sent out |
-| 2020-09-25<sup>#</sup> | Detailed performance reports sent out |
+| 2020-09-25 | Detailed performance reports sent out |
 
-<sup>#</sup> ~Tentative, but we'll try our very best to send the performance reports by this date.~  Sorry, delayed by a few days.
 
 ### I have a question, who do I ask?
 
