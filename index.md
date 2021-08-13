@@ -56,7 +56,7 @@ Please look at the FAQ below. If it doesn't answer your question, feel free to e
 | ------------------------------------- | -----------------------------------------------------             | ----------------------------------------        |
 | Karan Singh (Principal Investigator)  | [karan@dgp.toronto.edu](mailto:karan@dgp.toronto.edu)             | [http://www.dgp.toronto.edu/~karan/](http://www.dgp.toronto.edu/~karan/) | 
 | Rahul Arora (Contact Author)          | [arorar@dgp.toronto.edu](mailto:arorar@dgp.toronto.edu)           | [https://www.dgp.toronto.edu/~arorar/](https://www.dgp.toronto.edu/~arorar/) | 
-| Jiannan Li (Contact Author)           | [jiannali@dgp.toronto.edu](mailto:jiannanli@dgp.toronto.edu)      | [http://jchrisli.github.io/](http://jchrisli.github.io/) | 
+| Jiannan Li (Contact Author)           | [jiannanli@dgp.toronto.edu](mailto:jiannanli@dgp.toronto.edu)      | [http://jchrisli.github.io/](http://jchrisli.github.io/) | 
 | Gongyi Shi                            | [gongyi.shi@mail.utoronto.ca](mailto:gongyi.shi@mail.utoronto.ca) | [https://ca.linkedin.com/in/gongyi-shi](https://ca.linkedin.com/in/gongyi-shi) |
 
 
